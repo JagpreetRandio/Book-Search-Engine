@@ -25,7 +25,10 @@
   "homepage": "https://github.com/JagpreetRandio/Book-Search-Engine#readme",
   "dependencies": {
     "@apollo/client": "^3.7.11",
-    "apollo-server-express": "^2.15.0",
-    "graphql": "^15.8.0"
+    "@apollo/react-hooks": "^4.0.0",
+    "apollo-server-express": "^2.26.1",
+    "bootstrap": "^4.6.0",
+    "graphql": "^15.8.0",
+    "react-bootstrap": "^2.7.2"
   }
 }
